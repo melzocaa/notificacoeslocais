@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">JapaSushi Delivery</string>
+    <string name="title_activity_main">JapaSushi Delivery</string>
+    <string name="package_name">com.japasushi.delivery</string>
+    <string name="custom_url_scheme">com.japasushi.delivery</string>
+</resources>
