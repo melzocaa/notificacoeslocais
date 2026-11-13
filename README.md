@@ -86,6 +86,9 @@ Por meio do workflow configurado em `.github/workflows/build-apk.yml`, é possí
 
 O projeto tem como objetivo aplicar conhecimentos de desenvolvimento mobile, integração de tecnologias web com recursos nativos e automação de processos utilizando ferramentas modernas.
 
+<img width="1080" height="1045" alt="PRINTNOT" src="https://github.com/user-attachments/assets/5c87fe01-9583-44ec-8b68-a711f1f52336" />
+
+
 ---
 
 **JapaSushi Delivery** 🍣
